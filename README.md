@@ -1,4 +1,4 @@
-# ✈️ AeroX Enterprise | Next-Gen Flight Booking Ecosystem
+#  AeroX Enterprise | Next-Gen Flight Booking Ecosystem
 
 A high-performance, enterprise-grade flight search and booking engine built to challenge industry standards. AeroX combines a premium, fluid UI inspired by market leaders with a robust, secure FastAPI backend.
 
